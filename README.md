@@ -1,6 +1,11 @@
 HydraList: A Scalable In-Memory Index Using Asynchronous Updates and Partial Replication
 ========================================================================================
 
+## Dependencise
+
+git@github.com:wjakob/tbb.git
+
+
 This repository contains the code for HydraList, a scalable in-memory sorted
 index. HydraList has been tested in Linux with Intel Xeon processors.
 
