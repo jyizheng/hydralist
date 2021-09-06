@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -Wall -Wextra -march=native -mavx512f -mavx512bw   CMakeFiles/searchLayerTest.dir/test.cpp.o  -o searchLayerTest  -L/home/betrfs/tbb -Wl,-rpath,/home/betrfs/tbb -ltbb ../../src/libhydraList.a -lgtest -lnuma ../../lib/ARTROWEX/libart.a -ltbb -lgtest -lnuma 

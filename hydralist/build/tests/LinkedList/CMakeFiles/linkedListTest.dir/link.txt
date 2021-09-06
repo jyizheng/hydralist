@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -Wall -Wextra -march=native -mavx512f -mavx512bw   CMakeFiles/linkedListTest.dir/test.cpp.o  -o linkedListTest  -L/home/betrfs/tbb -Wl,-rpath,/home/betrfs/tbb ../../src/libhydraList.a -lgtest -lnuma ../../lib/ARTROWEX/libart.a -ltbb 

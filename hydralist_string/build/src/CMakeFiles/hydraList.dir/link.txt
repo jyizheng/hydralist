@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhydraList.a  CMakeFiles/hydraList.dir/HydraList.cpp.o CMakeFiles/hydraList.dir/Oplog.cpp.o CMakeFiles/hydraList.dir/WorkerThread.cpp.o CMakeFiles/hydraList.dir/linkedList.cpp.o CMakeFiles/hydraList.dir/listNode.cpp.o CMakeFiles/hydraList.dir/main.cpp.o
+/usr/bin/ranlib libhydraList.a
